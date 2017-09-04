@@ -1,0 +1,31 @@
+{
+  "name": "database-server",
+  "version": "1.0.0",
+  "description": "A practice a tech test to demonstrate my understanding of web technologies.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0",
+    "chai": "^4.1.2",
+    "request": "^2.81.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memunyawiri/database-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memunyawiri/database-server/issues"
+  },
+  "homepage": "https://github.com/memunyawiri/database-server#readme"
+}
